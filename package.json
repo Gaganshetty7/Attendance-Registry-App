@@ -1,0 +1,44 @@
+{
+  "name": "attendance",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^14.0.2",
+    "@react-native-community/datetimepicker": "^8.0.1",
+    "@react-navigation/native": "^6.1.17",
+    "@react-navigation/native-stack": "^6.9.26",
+    "@react-navigation/stack": "^6.3.29",
+    "axios": "^1.6.8",
+    "expo": "^51.0.18",
+    "expo-build-properties": "^0.12.3",
+    "expo-constants": "~16.0.2",
+    "expo-font": "~12.0.7",
+    "expo-network": "~6.0.1",
+    "expo-splash-screen": "^0.27.5",
+    "expo-status-bar": "~1.12.1",
+    "expo-system-ui": "~3.0.7",
+    "firebase": "^10.11.1",
+    "nativewind": "^2.0.11",
+    "react": "18.2.0",
+    "react-native": "^0.74.3",
+    "react-native-dropdown-picker": "^5.4.6",
+    "react-native-dropdown-select-list": "^2.0.5",
+    "react-native-element-dropdown": "^2.10.4",
+    "react-native-heroicons": "^4.0.0",
+    "react-native-modal-datetime-picker": "^17.1.0",
+    "react-native-shadow": "^1.2.2",
+    "react-native-svg": "^15.2.0",
+    "react-native-vector-icons": "^10.1.0",
+    "tailwindcss": "^3.3.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
